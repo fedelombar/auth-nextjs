@@ -17,7 +17,7 @@ Once you've created the project in the Supabase dashboard, continue with the nex
 2. Change into the directory and install the dependencies
 
 ```sh
-cd supabase-nextjs-auth
+cd auth-nextjs
 
 npm install
 ```
