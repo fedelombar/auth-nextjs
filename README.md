@@ -14,10 +14,6 @@ Once you've created the project in the Supabase dashboard, continue with the nex
 
 1. Clone this project
 
-```sh
-git clone https://github.com/dabit3/supabase-nextjs-auth
-```
-
 2. Change into the directory and install the dependencies
 
 ```sh
